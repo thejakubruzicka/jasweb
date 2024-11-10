@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Janixovo Animační Studio - Stránka ve výstavbě">
+    <meta name="keywords" content="JAS, Janixovo Animační Studio, animace, youtube, NČT TV, JAS 24">
+    <meta name="author" content="Janixovo Animační Studio">
+    <title>Janixovo Animační Studio - TV</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=VT323&family=Inter:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+</head>
+<body>
+    <div class="tv-container">
+        <!-- TV Obrazovka -->
+        <div class="tv-screen">
+            <div class="scanline"></div>
+            <div class="noise"></div>
+            <div class="tv-content">
+                <div class="tv-time" id="tv-time">00:00:00</div>
+                <div class="glitch-text" data-text="JAS">JAS</div>
+                <div class="construction-text">
+                    <p>Technická přestávka</p>
+                    <p>Vysílání bude brzy obnoveno</p>
+                    <div class="test-pattern">
+                        <div class="color-bars">
+                            <div class="bar"></div>
+                            <div class="bar"></div>
+                            <div class="bar"></div>
+                            <div class="bar"></div>
+                            <div class="bar"></div>
+                            <div class="bar"></div>
+                            <div class="bar"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Běžící zprávy -->
+        <div class="news-ticker-container">
+            <div class="news-label">ZPRÁVY</div>
+            <div class="news-ticker-wrapper">
+                <div id="news-ticker" class="news-ticker">
+                    Načítání zpráv...
+                </div>
+            </div>
+        </div>
+
+        <!-- TV Program s odkazy -->
+        <div class="tv-program">
+            <div class="program-grid">
+                <a href="https://discord.gg/XB9VTjh3rp" target="_blank" rel="noopener noreferrer" class="program-item">
+                    <span class="channel">01</span>
+                    <i class="fab fa-discord"></i>
+                    <span class="program-name">JAS Discord</span>
+                </a>
+                
+                <a href="https://www.youtube.com/channel/UCl_rmuIApFOiuJQvOjrd7Dg" target="_blank" rel="noopener noreferrer" class="program-item">
+                    <span class="channel">02</span>
+                    <i class="fab fa-youtube"></i>
+                    <span class="program-name">NČT TV</span>
+                </a>
+                
+                <a href="https://www.youtube.com/@nctextra" target="_blank" rel="noopener noreferrer" class="program-item">
+                    <span class="channel">03</span>
+                    <i class="fab fa-youtube"></i>
+                    <span class="program-name">NČT Extra</span>
+                </a>
+                
+                <a href="https://www.youtube.com/@jas24cz" target="_blank" rel="noopener noreferrer" class="program-item">
+                    <span class="channel">04</span>
+                    <i class="fab fa-youtube"></i>
+                    <span class="program-name">JAS 24</span>
+                </a>
+                
+                <a href="https://www.youtube.com/channel/UC7AISGtbyvjvfuAB-Hz4k7A" target="_blank" rel="noopener noreferrer" class="program-item">
+                    <span class="channel">05</span>
+                    <i class="fab fa-youtube"></i>
+                    <span class="program-name">J.A.S. Animations</span>
+                </a>
+                
+                <a href="https://www.youtube.com/channel/UCepJ8Jr-KIn5VaJvht8NN9A" target="_blank" rel="noopener noreferrer" class="program-item">
+                    <span class="channel">06</span>
+                    <i class="fab fa-youtube"></i>
+                    <span class="program-name">J.A.S. Xtra</span>
+                </a>
+                
+                <a href="https://www.youtube.com/@korozelife" target="_blank" rel="noopener noreferrer" class="program-item">
+                    <span class="channel">07</span>
+                    <i class="fab fa-youtube"></i>
+                    <span class="program-name">korozelife</span>
+                </a>
+                
+                <a href="https://www.youtube.com/@Korozelife-Archiv" target="_blank" rel="noopener noreferrer" class="program-item">
+                    <span class="channel">08</span>
+                    <i class="fas fa-archive"></i>
+                    <span class="program-name">korozelife Archiv</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <script src="js/news.js"></script>
+</body>
+</html>
