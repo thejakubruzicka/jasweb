@@ -1,18 +1,18 @@
-# Janixovo Animační Studio
+# Janix Animation Studio Website
 
-Oficiální webová stránka Janixova Animačního Studia (JAS). Tato stránka je momentálně ve výstavbě a brzy bude obsahovat více informací o našich projektech a aktivitách.
+A retro TV-style landing page for Janix Animation Studio (JAS). This page is currently under construction and will be expanded with more features in the future.
 
-## Projekty a Kanály
+## Social Media Links
 
-- JAS Discord - Oficiální Discord komunita
-- NČT TV - Hlavní televizní kanál
-- NČT Extra - Extra obsah a bonusová videa
-- JAS 24 - Zpravodajský kanál
-- J.A.S. Animations - Animační tvorba
-- J.A.S. Xtra - Dodatečný obsah
-- korozelife - Lifestyle obsah
-- korozelife Archiv - Archivní materiály
+- JAS Discord: https://discord.gg/XB9VTjh3rp
+- NČT TV: https://www.youtube.com/channel/UCl_rmuIApFOiuJQvOjrd7Dg
+- NČT Extra: https://www.youtube.com/@nctextra
+- JAS 24: https://www.youtube.com/@jas24cz
+- J.A.S. Animations: https://www.youtube.com/channel/UC7AISGtbyvjvfuAB-Hz4k7A
+- J.A.S. Xtra: https://www.youtube.com/channel/UCepJ8Jr-KIn5VaJvht8NN9A
+- korozelife: https://www.youtube.com/@korozelife
+- korozelife Archive: https://www.youtube.com/@Korozelife-Archiv
 
-## Vývoj
+## About
 
-Stránka je momentálně ve vývoji. Sledujte naše sociální sítě pro aktuální informace o projektu.
+This is the official repository for the Janix Animation Studio website. The site features a unique retro TV design with various visual effects and animations.
