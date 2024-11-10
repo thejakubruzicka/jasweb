@@ -6,7 +6,15 @@ const newsItems = [
     "Nové animace již brzy na J.A.S. Animations • ",
     "Připojte se k naší komunitě na JAS Discord • ",
     "Archivní materiály najdete na korozelife Archiv • ",
-    "Speciální obsah exkluzivně na NČT Extra • "
+    "Speciální obsah exkluzivně na NČT Extra • ",
+    "Welcome to the new Janix Animation Studio website! • ",
+    "We are preparing for you a brand new website with many features • ",
+    "Follow our channels for the latest videos and news • ",
+    "JAS 24 brings you the latest news from the world of JAS • ",
+    "New animations coming soon to J.A.S. Animations • ",
+    "Join our community on JAS Discord • ",
+    "Archived material can be found on the Korozelife Archive • ",
+    "Special content exclusively on NCT Extra • "
 ];
 
 function updateTime() {
